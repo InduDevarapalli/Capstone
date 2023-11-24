@@ -27,7 +27,7 @@ import com.infinite.Project.service.EmployeeServiceEmp;
 public class HrController {
 	
 	private static final Logger logger= Logger.getLogger(HrController.class);
-	
+	   
 	//we are redirecting to service layer
 	
 	//wiring with the service layer
